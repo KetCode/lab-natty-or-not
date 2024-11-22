@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# BodyShift: Mude seu corpo, mude sua história.
 
-## 🚀 Introdução
+## 📒 Descrição
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+O **BodyShift** é um projeto inovador que utiliza diversas IAs generativas para transformar a jornada em direção ao corpo dos seus sonhos. A proposta é unir tecnologia e saúde, oferecendo ferramentas personalizadas para criar hábitos sustentáveis e uma mentalidade positiva. Com o apoio de inteligência artificial, ajudamos os participantes a definir metas claras, desenvolver planos de ação eficientes e acompanhar o progresso de forma dinâmica. O projeto busca não apenas a transformação física, mas também promover um estilo de vida equilibrado e motivador, utilizando as capacidades da IA para personalizar e otimizar cada etapa do processo.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+### 🎯 Você Já Venceu 💪🤓
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- IA Generativa **ChatGPT** para roteirização;
+- IA Generativa **Makereels.AI** para criação do vídeo em reels;
+- IA Generativa **ElevenLabs** para geração de narrações;
+- IA Generativa **Suno** para criação da musica de fundo;
+- **Capcut** para agrupar tudo que foi gerado pelas IAs.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Para começar, foi utilizado o ChatGPT para gerar ideias e estruturar todo o conteúdo, como roteiro e nome do projeto. Depois, para transformar essas ideias em vídeos dinâmicos, foi utilizado o MakeReels, que nos ajudou a criar vídeos rápidos e envolventes para o Instagram. Para dar ainda mais vida ao projeto, foi utilizado o Suno, uma ferramenta de inteligência artificial que gera músicas personalizadas, deixando tudo bem personalizado, criando trilhas sonoras energéticas e motivadoras para acompanhar os vídeos. E, para finalizar, foi utilizado o ElevenLabs para criar vozes realistas e motivadoras, que trazem ainda mais energia e emoção para o projeto. Juntas, essas ferramentas nos ajudaram a criar uma experiência completa, ajudando qualquer pessoa a alcançar seus objetivos de forma divertida e motivadora!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+O resultado final é um projeto completo e integrado, onde a tecnologia se une à motivação para ajudar qualquer pessoa a transformar seu corpo e alcançar seus objetivos, de forma divertida e personalizada. O BodyShift não só entrega resultados, mas também torna o processo mais agradável e emocionante!
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+No início, parecia um simples experimento — integrar inteligência artificial e a criatividade para criar algo novo. Mas, conforme o projeto ganhou forma, percebi que não se tratava apenas de juntar peças tecnológicas. Foi um trabalho de colaboração entre mente humana e IA, oonde cada passo dado, cada decisão tomada pelas tecnologias, parecia ter uma energia própria, algo além do esperado. O mais impressionante de tudo foi perceber que, ao reunir essas IAs, foi criado algo que vai além da expectativa — uma experiência imersiva, motivadora e única.
