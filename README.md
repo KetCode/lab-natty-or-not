@@ -23,6 +23,7 @@ Para começar, foi utilizado o ChatGPT para gerar ideias e estruturar todo o con
 ## 🚀 Resultados
 
 O resultado final é um projeto completo e integrado, onde a tecnologia se une à motivação para ajudar qualquer pessoa a transformar seu corpo e alcançar seus objetivos, de forma divertida e personalizada. O BodyShift não só entrega resultados, mas também torna o processo mais agradável e emocionante!
+<video src='[Video](https://github.com/KetCode/lab-natty-or-not/blob/main/202411221425.mp4)' width=180/>
 
 ## 💭 Reflexão (Opcional)
 
